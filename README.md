@@ -1,4 +1,3 @@
-````markdown
 # 🐍 Pycharm_object
 
 > 我的大学 Python / AI 学习与项目仓库
@@ -167,9 +166,6 @@ GitHub
 * 失败与改进
 
 因此，部分代码可能并不完美。
-
-这里记录的是一个 AI 本科生从基础编程逐渐走向人工智能的学习过程。
-
 ---
 
 ## 📈 Learning Progress
@@ -195,41 +191,10 @@ AI 应用开发
 目标不仅是学习某一个 Python 库，而是逐渐建立：
 
 > 编程 → 数学 → 算法 → 数据 → 模型 → AI 应用
-
-完整的人工智能知识与实践能力。
-
----
-
-## 🔭 Future Plans
-
-* [ ] 深入 Python
-* [ ] C / C++
-* [ ] 算法与数据结构
-* [ ] Linux
-* [ ] 数据库
-* [ ] 机器学习
-* [ ] 深度学习
-* [ ] PyTorch
-* [ ] 自然语言处理
-* [ ] 大语言模型（LLM）
-* [ ] Computer Vision
-* [ ] AI Agent
-* [ ] AI 应用开发
-* [ ] 更多完整个人项目
-
 ---
 
 ## 👨‍💻 Author
 
 **JackalsTensor**
 
-AI Undergraduate Student
-
-> Keep learning. Keep building. Keep exploring.
-
----
-
 ⭐ This repository is continuously updated.
-
-```
-```
