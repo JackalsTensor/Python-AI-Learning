@@ -1,4 +1,4 @@
-# 🐍 Pycharm_object
+# 🐍 Python-AI-Learning
 
 > Python / AI 学习与项目仓库
 
