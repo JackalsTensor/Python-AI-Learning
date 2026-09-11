@@ -1,6 +1,6 @@
 # 🐍 Pycharm_object
 
-> 我的大学 Python / AI 学习与项目仓库
+> Python / AI 学习与项目仓库
 
 记录大学阶段使用 Python 与 PyCharm 进行编程学习、算法实践、数据分析、机器学习、深度学习以及 AI 应用开发的过程。
 
